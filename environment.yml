@@ -1,0 +1,7 @@
+name: streamlit-mediapipe-hands
+channels:
+  - conda-forge
+dependencies:
+  - streamlit
+  - pip:
+    - mediapipe
